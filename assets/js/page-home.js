@@ -121,7 +121,7 @@ $(document).ready(function () {
 	// Initiate typed.js text effect (done custom for each typed text effect)
 	$(".animated-text-effect").typed({
 		// Enter your texts here, these texts are applied to light homepages
-		strings: ["Sérfræðingar í tölvusjón", "Djúpum tuganetum", "og gagnavísindum"], 
+		strings: ["Sérfræðingar í Tölvusjón", "Djúpum Tauganetum", "og Gagnavísindum"], 
 		contentType: "text", 
 		typeSpeed: 30, 
 		loop: true, 
